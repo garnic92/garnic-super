@@ -1,0 +1,5 @@
+Garnic = patan
+if :Garnic
+printf :{privet 
+else: Garnic
+printf : mujik
